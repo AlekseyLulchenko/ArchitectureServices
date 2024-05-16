@@ -1,0 +1,11 @@
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\bin\Debug\net8.0\ArchitectureServices.Core.deps.json
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\bin\Debug\net8.0\ArchitectureServices.Core.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\bin\Debug\net8.0\ArchitectureServices.Core.pdb
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.AssemblyInfoInputs.cache
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.AssemblyInfo.cs
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\refint\ArchitectureServices.Core.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ArchitectureServices.Core.pdb
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Core\obj\Debug\net8.0\ref\ArchitectureServices.Core.dll

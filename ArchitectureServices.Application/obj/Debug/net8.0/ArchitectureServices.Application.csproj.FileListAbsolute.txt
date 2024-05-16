@@ -1,0 +1,15 @@
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\bin\Debug\net8.0\ArchitectureServices.Application.deps.json
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\bin\Debug\net8.0\ArchitectureServices.Application.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\bin\Debug\net8.0\ArchitectureServices.Application.pdb
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.AssemblyInfoInputs.cache
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.AssemblyInfo.cs
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\refint\ArchitectureServices.Application.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.pdb
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ref\ArchitectureServices.Application.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\bin\Debug\net8.0\ArchitectureServices.Core.dll
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\bin\Debug\net8.0\ArchitectureServices.Core.pdb
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\ArchitectureServices.Application.csproj.AssemblyReference.cache
+D:\Projects\Platform Services\ArchitectureServices\ArchitectureServices.Application\obj\Debug\net8.0\Architec.510B2EED.Up2Date

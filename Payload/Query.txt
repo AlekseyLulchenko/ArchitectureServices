@@ -1,0 +1,138 @@
+select 'mdp2backend' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2backend/%'
+union
+select 'mdp2contractoractivityReport' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2contractoractivityReport/%'
+union
+select 'mdp2activitiesarchive' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2activitiesarchive/%'
+union
+select 'mdp2fileservice' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2fileservice/%'
+union
+select 'mdp2groupoperations' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2groupoperations/%'
+union
+select 'mdp2integration' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2integration/%'
+union
+select 'mdp2projects' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2projects/%'
+union
+select 'mdp2repository' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2repository/%'
+union
+select 'mdp2approval' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2approval/%'
+union
+select 'mdp2audit' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2audit/%'
+union
+select 'mdp2grid' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2grid/%'
+union
+select 'mdp2dataimport' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2dataimport/%'
+union
+select 'mdp2estimate' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2estimate/%'
+union
+select 'mdp2hub' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2hub/%'
+union
+select 'mdp2identitypasswordhistory' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2identitypasswordhistory/%'
+union
+select 'mdp2lists' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2lists/%'
+union
+select 'mdp2obeya' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2obeya/%'
+union
+select 'mdp2report' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2report/%'
+union
+select 'mdp2mdp1mdp2syncagent' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2mdp1mdp2syncagent/%'
+union
+select 'mdp2standardscatalog' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2standardscatalog/%'
+union
+select 'mdp2activityudf' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2activityudf/%'
+union
+select 'mdp2baseline' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2baseline/%'
+union
+select 'mdp2catalogdirectory' as ApiSource, name as ApiConsumer from discovery.service s 
+	join discovery.node n on s.id = n.service_id 
+	join discovery.config c on s.id = c.service_id 
+	join discovery.settings settings on c.id = settings.config_id
+where settings.value like '%/services/mdp2catalogdirectory/%'
+order by ApiSource

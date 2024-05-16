@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ArchitectureServices.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ArchitectureServices.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArchitectureServices.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchitectureServices.Application.dll": {}
+        }
+      },
+      "ArchitectureServices.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ArchitectureServices.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArchitectureServices.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchitectureServices.Application/1.0.0": {
+      "type": "project",
+      "path": "../ArchitectureServices.Application/ArchitectureServices.Application.csproj",
+      "msbuildProject": "../ArchitectureServices.Application/ArchitectureServices.Application.csproj"
+    },
+    "ArchitectureServices.Core/1.0.0": {
+      "type": "project",
+      "path": "../ArchitectureServices.Core/ArchitectureServices.Core.csproj",
+      "msbuildProject": "../ArchitectureServices.Core/ArchitectureServices.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ArchitectureServices.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\a.lyulchenko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices\\ArchitectureServices.csproj",
+      "projectName": "ArchitectureServices",
+      "projectPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices\\ArchitectureServices.csproj",
+      "packagesPath": "C:\\Users\\a.lyulchenko\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\a.lyulchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Projects\\LocalPackageSource": {},
+        "https://nexus.niaepnn.ru/repository/nuget-group/index.json": {},
+        "https://nexus.niaepnn.ru/repository/nuget-hosted-ase/": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj": {
+              "projectPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

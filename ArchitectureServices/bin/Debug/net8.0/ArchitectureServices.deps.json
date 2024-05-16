@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArchitectureServices/1.0.0": {
+        "dependencies": {
+          "ArchitectureServices.Application": "1.0.0"
+        },
+        "runtime": {
+          "ArchitectureServices.dll": {}
+        }
+      },
+      "ArchitectureServices.Application/1.0.0": {
+        "dependencies": {
+          "ArchitectureServices.Core": "1.0.0"
+        },
+        "runtime": {
+          "ArchitectureServices.Application.dll": {}
+        }
+      },
+      "ArchitectureServices.Core/1.0.0": {
+        "runtime": {
+          "ArchitectureServices.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchitectureServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchitectureServices.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArchitectureServices.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
