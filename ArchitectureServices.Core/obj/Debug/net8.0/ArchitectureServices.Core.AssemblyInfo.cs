@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchitectureServices.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3a14e0731fcc0d623a8c3a7d7f54400eef4fc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchitectureServices.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchitectureServices.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

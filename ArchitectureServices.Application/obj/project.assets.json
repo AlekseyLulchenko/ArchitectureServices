@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj",
       "projectName": "ArchitectureServices.Application",
-      "projectPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj",
+      "projectPath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Application\\ArchitectureServices.Application.csproj",
       "packagesPath": "C:\\Users\\a.lyulchenko\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Application\\obj\\",
+      "outputPath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.lyulchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,8 +55,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {
-              "projectPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj"
+            "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {
+              "projectPath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj"
             }
           }
         }

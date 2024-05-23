@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPkPprF0XKRZo3qUkLwnZHuV1auQ0NEyTGsenEY5MWob0EtfLWvTTfw4Zfb8hIWFLtd8n2XWc4A2GgozOaVlww==",
+  "dgSpecHash": "c9p3qXGiLZNhdZHZbS6Q8HDdyxLuS+SqQKLFf4lUPfRRzrDIF1pB5M6vsk7cQkOsvcuT/IK7yWtuH4lBu8rylQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
+  "projectFilePath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

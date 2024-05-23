@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {}
+    "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {
+    "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
         "projectName": "ArchitectureServices.Core",
-        "projectPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
+        "projectPath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\ArchitectureServices.Core.csproj",
         "packagesPath": "C:\\Users\\a.lyulchenko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Platform Services\\ArchitectureServices\\ArchitectureServices.Core\\obj\\",
+        "outputPath": "D:\\Projects\\Personal\\ArchitectureServices\\ArchitectureServices.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.lyulchenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
